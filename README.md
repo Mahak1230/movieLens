@@ -1,0 +1,1 @@
+movieLens is a movie recommendation system which allows users to receive personalized movie recommendations, access detailed information about the cast, and view movie posters using the TMDB API. Additionally, it includes a sentiment analysis feature that predicts the overall sentiment based on user reviews.
